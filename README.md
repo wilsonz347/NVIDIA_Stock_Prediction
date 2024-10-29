@@ -1,8 +1,6 @@
 # NVIDIA_Stock_Prediction
 Beginner Machine Learning Project Predicting NVIDIA Closing Prices Using Decision Tree Algorithm
 
-# NVIDIA Stock Price Prediction
-
 ## Project Overview
 
 This project utilizes a Decision Tree Regressor to forecast NVIDIA stock closing prices for the next 21 days. By analyzing historical stock data, the model identifies trends and patterns, providing valuable insights for informed investment decisions.
